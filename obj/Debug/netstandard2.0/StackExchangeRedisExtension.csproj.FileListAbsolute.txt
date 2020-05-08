@@ -1,0 +1,7 @@
+C:\Users\stephenhu\Documents\GitHub\StackExchangeRedisExtension\StackExchangeRedisExtension\bin\Debug\netstandard2.0\StackExchangeRedisExtension.deps.json
+C:\Users\stephenhu\Documents\GitHub\StackExchangeRedisExtension\StackExchangeRedisExtension\bin\Debug\netstandard2.0\StackExchangeRedisExtension.dll
+C:\Users\stephenhu\Documents\GitHub\StackExchangeRedisExtension\StackExchangeRedisExtension\obj\Debug\netstandard2.0\StackExchangeRedisExtension.AssemblyInfoInputs.cache
+C:\Users\stephenhu\Documents\GitHub\StackExchangeRedisExtension\StackExchangeRedisExtension\obj\Debug\netstandard2.0\StackExchangeRedisExtension.AssemblyInfo.cs
+C:\Users\stephenhu\Documents\GitHub\StackExchangeRedisExtension\StackExchangeRedisExtension\bin\Debug\netstandard2.0\StackExchangeRedisExtension.pdb
+C:\Users\stephenhu\Documents\GitHub\StackExchangeRedisExtension\StackExchangeRedisExtension\obj\Debug\netstandard2.0\StackExchangeRedisExtension.dll
+C:\Users\stephenhu\Documents\GitHub\StackExchangeRedisExtension\StackExchangeRedisExtension\obj\Debug\netstandard2.0\StackExchangeRedisExtension.pdb
